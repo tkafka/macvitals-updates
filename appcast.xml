@@ -7,6 +7,21 @@
         <language>en</language>
         <item>
             <title>Version 1.0.1</title>
+            <pubDate>Tue, 13 Jan 2026 20:02:59 +0000</pubDate>
+            <sparkle:version>2</sparkle:version>
+            <sparkle:shortVersionString>1.0.1</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.2</sparkle:minimumSystemVersion>
+            <description><![CDATA[
+                <p>Bug fixes and improvements.</p>
+            ]]></description>
+            <enclosure
+                url="https://macvitals-updates.tomaskafka.com/MacVitals-1.0.1.dmg"
+                length="7353032"
+                type="application/octet-stream"
+            />
+        </item>
+        <item>
+            <title>Version 1.0.1</title>
             <pubDate>Tue, 13 Jan 2026 19:53:42 +0000</pubDate>
             <sparkle:version>2</sparkle:version>
             <sparkle:shortVersionString>1.0.1</sparkle:shortVersionString>
@@ -17,6 +32,21 @@
             <enclosure
                 url="https://macvitals-updates.tomaskafka.com/MacVitals-1.0.1.dmg"
                 length="7353051"
+                type="application/octet-stream"
+            />
+        </item>
+        <item>
+            <title>Version 1.0</title>
+            <pubDate>Tue, 13 Jan 2026 17:07:37 +0000</pubDate>
+            <sparkle:version>1</sparkle:version>
+            <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.2</sparkle:minimumSystemVersion>
+            <description><![CDATA[
+                <p>Bug fixes and improvements.</p>
+            ]]></description>
+            <enclosure
+                url="https://macvitals-updates.tomaskafka.com/MacVitals-1.0.dmg"
+                length="7359429"
                 type="application/octet-stream"
             />
         </item>
