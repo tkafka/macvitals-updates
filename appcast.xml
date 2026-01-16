@@ -7,6 +7,24 @@
         <language>en</language>
         <item>
             <title>Version 1.1.1</title>
+            <pubDate>Fri, 16 Jan 2026 16:37:07 +0000</pubDate>
+            <sparkle:version>3</sparkle:version>
+            <sparkle:shortVersionString>1.1.1</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.2</sparkle:minimumSystemVersion>
+            <description><![CDATA[
+                <h3>What's New in 1.1.1</h3>
+<ul>
+    <li>Remove custom background from segmented picker to match sidebar</li>
+</ul>
+            ]]></description>
+            <enclosure
+                url="https://macvitals-updates.tomaskafka.com/MacVitals-1.1.1.dmg"
+                length="7398044"
+                type="application/octet-stream"
+            />
+        </item>
+        <item>
+            <title>Version 1.1.1</title>
             <pubDate>Fri, 16 Jan 2026 16:36:48 +0000</pubDate>
             <sparkle:version>3</sparkle:version>
             <sparkle:shortVersionString>1.1.1</sparkle:shortVersionString>
