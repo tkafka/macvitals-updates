@@ -12,7 +12,13 @@
             <sparkle:shortVersionString>1.1.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>26.2</sparkle:minimumSystemVersion>
             <description><![CDATA[
-                <p>Bug fixes and improvements.</p>
+                <h3>What's New in 1.1.0</h3>
+                <ul>
+                    <li>Added detailed history charts</li>
+                    <li>Unified visuals for apps and processes</li>
+                    <li>Easier metric switcher</li>
+                    <li>Improved summary messages</li>
+                </ul>
             ]]></description>
             <enclosure
                 url="https://macvitals-updates.tomaskafka.com/MacVitals-1.1.0.dmg"
