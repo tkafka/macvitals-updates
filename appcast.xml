@@ -6,6 +6,21 @@
         <description>Most recent updates to MacVitals</description>
         <language>en</language>
         <item>
+            <title>Version 1.1.1</title>
+            <pubDate>Fri, 16 Jan 2026 16:36:48 +0000</pubDate>
+            <sparkle:version>3</sparkle:version>
+            <sparkle:shortVersionString>1.1.1</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.2</sparkle:minimumSystemVersion>
+            <description><![CDATA[
+                <p>Bug fixes and improvements.</p>
+            ]]></description>
+            <enclosure
+                url="https://macvitals-updates.tomaskafka.com/MacVitals-1.1.1.dmg"
+                length="7398044"
+                type="application/octet-stream"
+            />
+        </item>
+        <item>
             <title>Version 1.1.0</title>
             <pubDate>Fri, 16 Jan 2026 15:58:19 +0000</pubDate>
             <sparkle:version>2</sparkle:version>
