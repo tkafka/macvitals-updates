@@ -7,6 +7,25 @@
         <language>en</language>
         <item>
             <title>Version 1.1.2</title>
+            <pubDate>Sat, 17 Jan 2026 00:08:21 +0000</pubDate>
+            <sparkle:version>4</sparkle:version>
+            <sparkle:shortVersionString>1.1.2</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.2</sparkle:minimumSystemVersion>
+            <description><![CDATA[
+                <h3>What's New in 1.1.2</h3>
+<ul>
+    <li>Improved process filtering logic during search</li>
+    <li>History chart now adapts to available space</li>
+</ul>
+            ]]></description>
+            <enclosure
+                url="https://macvitals-updates.tomaskafka.com/MacVitals-1.1.2.dmg"
+                length="7397535"
+                type="application/octet-stream"
+            />
+        </item>
+        <item>
+            <title>Version 1.1.2</title>
             <pubDate>Sat, 17 Jan 2026 00:08:02 +0000</pubDate>
             <sparkle:version>4</sparkle:version>
             <sparkle:shortVersionString>1.1.2</sparkle:shortVersionString>
