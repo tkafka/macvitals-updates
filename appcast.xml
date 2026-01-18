@@ -22,6 +22,7 @@
                 url="https://macvitals-updates.tomaskafka.com/MacVitals-1.1.2.dmg"
                 length="7397535"
                 type="application/octet-stream"
+                sparkle:edSignature="owNQFW1YQArJ9ulYDJPyrozRQjEPZJ3lbF9sXWmBsaCI70xr+tj+16zR/+m7poWez8r9COwXYGTteRxs1oaTAw=="
             />
         </item>
         <item>
@@ -37,6 +38,7 @@
                 url="https://macvitals-updates.tomaskafka.com/MacVitals-1.1.2.dmg"
                 length="7397535"
                 type="application/octet-stream"
+                sparkle:edSignature="owNQFW1YQArJ9ulYDJPyrozRQjEPZJ3lbF9sXWmBsaCI70xr+tj+16zR/+m7poWez8r9COwXYGTteRxs1oaTAw=="
             />
         </item>
         <item>
@@ -55,6 +57,7 @@
                 url="https://macvitals-updates.tomaskafka.com/MacVitals-1.1.1.dmg"
                 length="7398044"
                 type="application/octet-stream"
+                sparkle:edSignature="SWLReqX61x4SmDh+oS6/KUMG3+0Kg1YsT2zZxRmJxEKUm8XnlpYN1sIvfOb0AdTOAag+FMA60206WAeB2+2BDQ=="
             />
         </item>
         <item>
@@ -70,6 +73,7 @@
                 url="https://macvitals-updates.tomaskafka.com/MacVitals-1.1.1.dmg"
                 length="7398044"
                 type="application/octet-stream"
+                sparkle:edSignature="SWLReqX61x4SmDh+oS6/KUMG3+0Kg1YsT2zZxRmJxEKUm8XnlpYN1sIvfOb0AdTOAag+FMA60206WAeB2+2BDQ=="
             />
         </item>
         <item>
@@ -91,6 +95,7 @@
                 url="https://macvitals-updates.tomaskafka.com/MacVitals-1.1.0.dmg"
                 length="7398361"
                 type="application/octet-stream"
+                sparkle:edSignature="eZotfFYT2AiTMg9CLIyP0hQMRXl26Vdote6LWna4pnkPFiqrcddVvtt9F8Yih07JA25weuB/YClrokvpNty4Aw=="
             />
         </item>
         <item>
@@ -106,6 +111,7 @@
                 url="https://macvitals-updates.tomaskafka.com/MacVitals-1.0.2.dmg"
                 length="7353152"
                 type="application/octet-stream"
+                sparkle:edSignature="t+FE6oP1Kz5TRAv7nELY66/mcHbszhI8G9gV5MQuFouUMA/2UNZ7UYkON+oItoGjuRxvKqHi7v7IzTjSln/6Aw=="
             />
         </item>
         <item>
@@ -121,6 +127,7 @@
                 url="https://macvitals-updates.tomaskafka.com/MacVitals-1.0.1.dmg"
                 length="7353032"
                 type="application/octet-stream"
+                sparkle:edSignature="5aDmCW+FF7YTz8L+5A9zL5iLCiAP6Brr+sGzgQQTx0LQP/p8uBX6OhZVUg45EEF0wDAF7fqUzNALbfVuiYb0Ag=="
             />
         </item>
         <item>
@@ -136,22 +143,9 @@
                 url="https://macvitals-updates.tomaskafka.com/MacVitals-1.0.1.dmg"
                 length="7353051"
                 type="application/octet-stream"
+                sparkle:edSignature="5aDmCW+FF7YTz8L+5A9zL5iLCiAP6Brr+sGzgQQTx0LQP/p8uBX6OhZVUg45EEF0wDAF7fqUzNALbfVuiYb0Ag=="
             />
         </item>
-        <item>
-            <title>Version 1.0</title>
-            <pubDate>Tue, 13 Jan 2026 17:07:37 +0000</pubDate>
-            <sparkle:version>1</sparkle:version>
-            <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>26.2</sparkle:minimumSystemVersion>
-            <description><![CDATA[
-                <p>Bug fixes and improvements.</p>
-            ]]></description>
-            <enclosure
-                url="https://macvitals-updates.tomaskafka.com/MacVitals-1.0.dmg"
-                length="7359429"
-                type="application/octet-stream"
-            />
-        </item>
+       
     </channel>
 </rss>
