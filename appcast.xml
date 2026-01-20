@@ -7,12 +7,16 @@
         <language>en</language>
         <item>
             <title>Version 1.1.3</title>
-            <pubDate>Tue, 20 Jan 2026 14:54:51 +0000</pubDate>
+            <pubDate>Tue, 20 Jan 2026 14:55:19 +0000</pubDate>
             <sparkle:version>2</sparkle:version>
             <sparkle:shortVersionString>1.1.3</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>26.2</sparkle:minimumSystemVersion>
             <description><![CDATA[
-                <p>Bug fixes and improvements.</p>
+                <h3>What's New in 1.1.3</h3>
+<ul>
+    <li>New app icon</li>
+    <li>Improved status messages</li>
+</ul>
             ]]></description>
             <enclosure
                 url="https://macvitals-updates.tomaskafka.com/MacVitals-1.1.3.dmg"
