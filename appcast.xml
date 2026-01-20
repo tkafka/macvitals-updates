@@ -6,6 +6,22 @@
         <description>Most recent updates to MacVitals</description>
         <language>en</language>
         <item>
+            <title>Version 1.1.3</title>
+            <pubDate>Tue, 20 Jan 2026 14:54:51 +0000</pubDate>
+            <sparkle:version>2</sparkle:version>
+            <sparkle:shortVersionString>1.1.3</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.2</sparkle:minimumSystemVersion>
+            <description><![CDATA[
+                <p>Bug fixes and improvements.</p>
+            ]]></description>
+            <enclosure
+                url="https://macvitals-updates.tomaskafka.com/MacVitals-1.1.3.dmg"
+                length="6487092"
+                type="application/octet-stream"
+                sparkle:edSignature="mnar6QEFLOHjM7n3YjIxpL1QmNNdcUDZUqI0sTrFjLUCBU7QMlcue9koGtqP+d+b+yVF5MG4t6RNpAbtBDLqBg=="
+            />
+        </item>
+        <item>
             <title>Version 1.1.2</title>
             <pubDate>Sat, 17 Jan 2026 00:08:21 +0000</pubDate>
             <sparkle:version>4</sparkle:version>
@@ -146,6 +162,5 @@
                 sparkle:edSignature="5aDmCW+FF7YTz8L+5A9zL5iLCiAP6Brr+sGzgQQTx0LQP/p8uBX6OhZVUg45EEF0wDAF7fqUzNALbfVuiYb0Ag=="
             />
         </item>
-       
     </channel>
 </rss>
