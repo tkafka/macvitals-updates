@@ -7,6 +7,42 @@
         <language>en</language>
         <item>
             <title>Version 1.2.0</title>
+            <pubDate>Mon, 26 Jan 2026 14:05:41 +0000</pubDate>
+            <sparkle:version>5</sparkle:version>
+            <sparkle:shortVersionString>1.2.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[
+                <p>Bug fixes and improvements.</p>
+            ]]></description>
+            <enclosure
+                url="https://macvitals-updates.tomaskafka.com/MacVitals-1.2.0.dmg"
+                length="6504062"
+                type="application/octet-stream"
+                sparkle:edSignature="0q+khaoXTZ6epX4lrf4GnrAmAMMpCFi0GY3A9p51xHELZtis5AxQvqVjtIIYHplxFHhUhCZTqW0EGHlnyFmmBg=="
+            />
+        </item>
+        <item>
+            <title>Version 1.2.0</title>
+            <pubDate>Sat, 24 Jan 2026 22:56:45 +0000</pubDate>
+            <sparkle:version>2</sparkle:version>
+            <sparkle:shortVersionString>1.2.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[
+                <h3>What's New in 1.2.0</h3>
+<ul>
+    <li>MacVitals now supports also macOS 15 (without Apple's Foundation Models)</li>
+    <li>Many performance improvements - smarter gating of process and app metadata, lots of caching. MacVitals now flies.</li>
+</ul>
+            ]]></description>
+            <enclosure
+                url="https://macvitals-updates.tomaskafka.com/MacVitals-1.2.0.dmg"
+                length="6504009"
+                type="application/octet-stream"
+                sparkle:edSignature="PFgSa1Q7VhkvzR4Uu+pnlqN256wIRfEHdP1QAr8dmImMvtZHW1uTmpOuPAKbtuonUBL8vBPPzSp7ue/3zpYZDw=="
+            />
+        </item>
+        <item>
+            <title>Version 1.2.0</title>
             <pubDate>Sat, 24 Jan 2026 22:56:19 +0000</pubDate>
             <sparkle:version>2</sparkle:version>
             <sparkle:shortVersionString>1.2.0</sparkle:shortVersionString>
