@@ -7,6 +7,34 @@
         <language>en</language>
         <item>
             <title>Version 1.4.0</title>
+            <pubDate>Wed, 11 Feb 2026 23:53:44 +0000</pubDate>
+            <sparkle:version>7</sparkle:version>
+            <sparkle:shortVersionString>1.4.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[
+                <h3>What's New in v1.4.0</h3>
+<h4>Changed</h4>
+<ul>
+    <li>Dramatically reduced CPU usage through aggressive caching and batched loading — MacVitals now takes near-zero CPU between refreshes, safe to keep running for days</li>
+    <li>Hovering over pie chart slices no longer triggers expensive redraws, making the UI feel instant</li>
+    <li>Subtler selection highlight with a refined edge glow for a cleaner look</li>
+</ul>
+<h4>Fixed</h4>
+<ul>
+    <li>Clicking the "Other" pie slice now correctly highlights the matching group in the sidebar</li>
+    <li>Sidebar automatically scrolls to the selected item</li>
+    <li>Small-app grouping is now proportional to each category's size, so fewer apps get hidden into "Other"</li>
+</ul>
+            ]]></description>
+            <enclosure
+                url="https://macvitals-updates.tomaskafka.com/MacVitals-1.4.0.dmg"
+                length="4874709"
+                type="application/octet-stream"
+                sparkle:edSignature="vAW0tRkjWOxiwQ0HsFD9Q0ThtEJLb5rWOeYNc3WNRFAQgc1J8/YFfMh6uKPrbVA9aw11DOIoak8ltx1qy59gDA=="
+            />
+        </item>
+        <item>
+            <title>Version 1.4.0</title>
             <pubDate>Wed, 11 Feb 2026 23:53:09 +0000</pubDate>
             <sparkle:version>7</sparkle:version>
             <sparkle:shortVersionString>1.4.0</sparkle:shortVersionString>
