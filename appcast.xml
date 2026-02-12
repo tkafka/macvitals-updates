@@ -7,6 +7,26 @@
         <language>en</language>
         <item>
             <title>Version 1.4.1</title>
+            <pubDate>Thu, 12 Feb 2026 13:31:00 +0000</pubDate>
+            <sparkle:version>8</sparkle:version>
+            <sparkle:shortVersionString>1.4.1</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[
+                <h3>What's New in v1.4.1</h3>
+<ul>
+    <li>Significantly faster process list with buttery smooth scrolling</li>
+    <li>New option for a smaller menu bar icon when your menu bar space is at a premium</li>
+</ul>
+            ]]></description>
+            <enclosure
+                url="https://macvitals-updates.tomaskafka.com/MacVitals-1.4.1.dmg"
+                length="4883885"
+                type="application/octet-stream"
+                sparkle:edSignature="ac+I6sITbHk/3fE+FtyqbUfoEER4G7KGAlHJujbEXBehqJ7tX2e1CDuj+6G9l2eaTo3IhGklqnF4OrMbnqPKDQ=="
+            />
+        </item>
+        <item>
+            <title>Version 1.4.1</title>
             <pubDate>Thu, 12 Feb 2026 13:30:25 +0000</pubDate>
             <sparkle:version>8</sparkle:version>
             <sparkle:shortVersionString>1.4.1</sparkle:shortVersionString>
