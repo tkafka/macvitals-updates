@@ -19,23 +19,7 @@
 </ul>
             ]]></description>
             <enclosure
-                url="https://macvitals-updates.tomaskafka.com/MacVitals-1.4.1.dmg"
-                length="4883885"
-                type="application/octet-stream"
-                sparkle:edSignature="ac+I6sITbHk/3fE+FtyqbUfoEER4G7KGAlHJujbEXBehqJ7tX2e1CDuj+6G9l2eaTo3IhGklqnF4OrMbnqPKDQ=="
-            />
-        </item>
-        <item>
-            <title>Version 1.4.1</title>
-            <pubDate>Thu, 12 Feb 2026 13:30:25 +0000</pubDate>
-            <sparkle:version>8</sparkle:version>
-            <sparkle:shortVersionString>1.4.1</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
-            <description><![CDATA[
-                <p>Bug fixes and improvements.</p>
-            ]]></description>
-            <enclosure
-                url="https://macvitals-updates.tomaskafka.com/MacVitals-1.4.1.dmg"
+                url="https://github.com/tkafka/macvitals-updates/releases/download/v1.4.1/MacVitals-1.4.1.dmg"
                 length="4883885"
                 type="application/octet-stream"
                 sparkle:edSignature="ac+I6sITbHk/3fE+FtyqbUfoEER4G7KGAlHJujbEXBehqJ7tX2e1CDuj+6G9l2eaTo3IhGklqnF4OrMbnqPKDQ=="
@@ -63,23 +47,7 @@
 </ul>
             ]]></description>
             <enclosure
-                url="https://macvitals-updates.tomaskafka.com/MacVitals-1.4.0.dmg"
-                length="4874709"
-                type="application/octet-stream"
-                sparkle:edSignature="vAW0tRkjWOxiwQ0HsFD9Q0ThtEJLb5rWOeYNc3WNRFAQgc1J8/YFfMh6uKPrbVA9aw11DOIoak8ltx1qy59gDA=="
-            />
-        </item>
-        <item>
-            <title>Version 1.4.0</title>
-            <pubDate>Wed, 11 Feb 2026 23:53:09 +0000</pubDate>
-            <sparkle:version>7</sparkle:version>
-            <sparkle:shortVersionString>1.4.0</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
-            <description><![CDATA[
-                <p>Bug fixes and improvements.</p>
-            ]]></description>
-            <enclosure
-                url="https://macvitals-updates.tomaskafka.com/MacVitals-1.4.0.dmg"
+                url="https://github.com/tkafka/macvitals-updates/releases/download/v1.4.0/MacVitals-1.4.0.dmg"
                 length="4874709"
                 type="application/octet-stream"
                 sparkle:edSignature="vAW0tRkjWOxiwQ0HsFD9Q0ThtEJLb5rWOeYNc3WNRFAQgc1J8/YFfMh6uKPrbVA9aw11DOIoak8ltx1qy59gDA=="
@@ -100,23 +68,7 @@
 </ul>
             ]]></description>
             <enclosure
-                url="https://macvitals-updates.tomaskafka.com/MacVitals-1.3.0.dmg"
-                length="4860106"
-                type="application/octet-stream"
-                sparkle:edSignature="x5Tvoiv1mXVOsMBodqyMEQJ+2S6qDCgz5l12/TvZ9wyBYWLFFZn5C709G+aYZmlhozUwUF019uIQ3VfKkWOdCA=="
-            />
-        </item>
-        <item>
-            <title>Version 1.3.0</title>
-            <pubDate>Mon, 02 Feb 2026 16:37:46 +0000</pubDate>
-            <sparkle:version>6</sparkle:version>
-            <sparkle:shortVersionString>1.3.0</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
-            <description><![CDATA[
-                <p>Bug fixes and improvements.</p>
-            ]]></description>
-            <enclosure
-                url="https://macvitals-updates.tomaskafka.com/MacVitals-1.3.0.dmg"
+                url="https://github.com/tkafka/macvitals-updates/releases/download/v1.3.0/MacVitals-1.3.0.dmg"
                 length="4860106"
                 type="application/octet-stream"
                 sparkle:edSignature="x5Tvoiv1mXVOsMBodqyMEQJ+2S6qDCgz5l12/TvZ9wyBYWLFFZn5C709G+aYZmlhozUwUF019uIQ3VfKkWOdCA=="
@@ -136,62 +88,10 @@
 </ul>
             ]]></description>
             <enclosure
-                url="https://macvitals-updates.tomaskafka.com/MacVitals-1.2.0.dmg"
+                url="https://github.com/tkafka/macvitals-updates/releases/download/v1.2.0/MacVitals-1.2.0.dmg"
                 length="6504062"
                 type="application/octet-stream"
                 sparkle:edSignature="0q+khaoXTZ6epX4lrf4GnrAmAMMpCFi0GY3A9p51xHELZtis5AxQvqVjtIIYHplxFHhUhCZTqW0EGHlnyFmmBg=="
-            />
-        </item>
-        <item>
-            <title>Version 1.2.0</title>
-            <pubDate>Mon, 26 Jan 2026 14:05:41 +0000</pubDate>
-            <sparkle:version>5</sparkle:version>
-            <sparkle:shortVersionString>1.2.0</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
-            <description><![CDATA[
-                <p>Bug fixes and improvements.</p>
-            ]]></description>
-            <enclosure
-                url="https://macvitals-updates.tomaskafka.com/MacVitals-1.2.0.dmg"
-                length="6504062"
-                type="application/octet-stream"
-                sparkle:edSignature="0q+khaoXTZ6epX4lrf4GnrAmAMMpCFi0GY3A9p51xHELZtis5AxQvqVjtIIYHplxFHhUhCZTqW0EGHlnyFmmBg=="
-            />
-        </item>
-        <item>
-            <title>Version 1.2.0</title>
-            <pubDate>Sat, 24 Jan 2026 22:56:45 +0000</pubDate>
-            <sparkle:version>2</sparkle:version>
-            <sparkle:shortVersionString>1.2.0</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
-            <description><![CDATA[
-                <h3>What's New in 1.2.0</h3>
-<ul>
-    <li>MacVitals now supports also macOS 15 (without Apple's Foundation Models)</li>
-    <li>Many performance improvements - smarter gating of process and app metadata, lots of caching. MacVitals now flies.</li>
-</ul>
-            ]]></description>
-            <enclosure
-                url="https://macvitals-updates.tomaskafka.com/MacVitals-1.2.0.dmg"
-                length="6504009"
-                type="application/octet-stream"
-                sparkle:edSignature="PFgSa1Q7VhkvzR4Uu+pnlqN256wIRfEHdP1QAr8dmImMvtZHW1uTmpOuPAKbtuonUBL8vBPPzSp7ue/3zpYZDw=="
-            />
-        </item>
-        <item>
-            <title>Version 1.2.0</title>
-            <pubDate>Sat, 24 Jan 2026 22:56:19 +0000</pubDate>
-            <sparkle:version>2</sparkle:version>
-            <sparkle:shortVersionString>1.2.0</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
-            <description><![CDATA[
-                <p>Bug fixes and improvements.</p>
-            ]]></description>
-            <enclosure
-                url="https://macvitals-updates.tomaskafka.com/MacVitals-1.2.0.dmg"
-                length="6504009"
-                type="application/octet-stream"
-                sparkle:edSignature="PFgSa1Q7VhkvzR4Uu+pnlqN256wIRfEHdP1QAr8dmImMvtZHW1uTmpOuPAKbtuonUBL8vBPPzSp7ue/3zpYZDw=="
             />
         </item>
         <item>
@@ -208,43 +108,7 @@
 </ul>
             ]]></description>
             <enclosure
-                url="https://macvitals-updates.tomaskafka.com/MacVitals-1.1.4.dmg"
-                length="6432520"
-                type="application/octet-stream"
-                sparkle:edSignature="y9hXip7UGyhL4aHpLUaKPgsfMY33gG5kDwz8I4Ju68+upWlSrn3hhTylFSvz89IFO8hSBcMnFNgV46UzgrahBg=="
-            />
-        </item>
-        <item>
-            <title>Version 1.1.4</title>
-            <pubDate>Tue, 20 Jan 2026 15:29:12 +0000</pubDate>
-            <sparkle:version>2</sparkle:version>
-            <sparkle:shortVersionString>1.1.4</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>26.2</sparkle:minimumSystemVersion>
-            <description><![CDATA[
-                <h3>What's New in 1.1.4</h3>
-<ul>
-    <li>New app icon</li>
-    <li>Improved status messages</li>
-</ul>
-            ]]></description>
-            <enclosure
-                url="https://macvitals-updates.tomaskafka.com/MacVitals-1.1.4.dmg"
-                length="6432520"
-                type="application/octet-stream"
-                sparkle:edSignature="y9hXip7UGyhL4aHpLUaKPgsfMY33gG5kDwz8I4Ju68+upWlSrn3hhTylFSvz89IFO8hSBcMnFNgV46UzgrahBg=="
-            />
-        </item>
-        <item>
-            <title>Version 1.1.4</title>
-            <pubDate>Tue, 20 Jan 2026 15:28:43 +0000</pubDate>
-            <sparkle:version>2</sparkle:version>
-            <sparkle:shortVersionString>1.1.4</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>26.2</sparkle:minimumSystemVersion>
-            <description><![CDATA[
-                <p>Bug fixes and improvements.</p>
-            ]]></description>
-            <enclosure
-                url="https://macvitals-updates.tomaskafka.com/MacVitals-1.1.4.dmg"
+                url="https://github.com/tkafka/macvitals-updates/releases/download/v1.1.4/MacVitals-1.1.4.dmg"
                 length="6432520"
                 type="application/octet-stream"
                 sparkle:edSignature="y9hXip7UGyhL4aHpLUaKPgsfMY33gG5kDwz8I4Ju68+upWlSrn3hhTylFSvz89IFO8hSBcMnFNgV46UzgrahBg=="
@@ -264,46 +128,10 @@
 </ul>
             ]]></description>
             <enclosure
-                url="https://macvitals-updates.tomaskafka.com/MacVitals-1.1.3.dmg"
+                url="https://github.com/tkafka/macvitals-updates/releases/download/v1.1.3/MacVitals-1.1.3.dmg"
                 length="6634729"
                 type="application/octet-stream"
                 sparkle:edSignature="NWiEsgBwZKypeAd7SdoHp73coCrUVXQLXdWoVksxWWEK7DYk2ly25415gV5JhCpUIwNn3WR4hw3DY0msDFT9Ag=="
-            />
-        </item>
-        <item>
-            <title>Version 1.1.3</title>
-            <pubDate>Tue, 20 Jan 2026 14:55:19 +0000</pubDate>
-            <sparkle:version>2</sparkle:version>
-            <sparkle:shortVersionString>1.1.3</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>26.2</sparkle:minimumSystemVersion>
-            <description><![CDATA[
-                <h3>What's New in 1.1.3</h3>
-<ul>
-    <li>New app icon</li>
-    <li>Improved status messages</li>
-</ul>
-            ]]></description>
-            <enclosure
-                url="https://macvitals-updates.tomaskafka.com/MacVitals-1.1.3.dmg"
-                length="6487092"
-                type="application/octet-stream"
-                sparkle:edSignature="mnar6QEFLOHjM7n3YjIxpL1QmNNdcUDZUqI0sTrFjLUCBU7QMlcue9koGtqP+d+b+yVF5MG4t6RNpAbtBDLqBg=="
-            />
-        </item>
-        <item>
-            <title>Version 1.1.3</title>
-            <pubDate>Tue, 20 Jan 2026 14:54:51 +0000</pubDate>
-            <sparkle:version>2</sparkle:version>
-            <sparkle:shortVersionString>1.1.3</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>26.2</sparkle:minimumSystemVersion>
-            <description><![CDATA[
-                <p>Bug fixes and improvements.</p>
-            ]]></description>
-            <enclosure
-                url="https://macvitals-updates.tomaskafka.com/MacVitals-1.1.3.dmg"
-                length="6487092"
-                type="application/octet-stream"
-                sparkle:edSignature="mnar6QEFLOHjM7n3YjIxpL1QmNNdcUDZUqI0sTrFjLUCBU7QMlcue9koGtqP+d+b+yVF5MG4t6RNpAbtBDLqBg=="
             />
         </item>
         <item>
@@ -320,23 +148,7 @@
 </ul>
             ]]></description>
             <enclosure
-                url="https://macvitals-updates.tomaskafka.com/MacVitals-1.1.2.dmg"
-                length="7397535"
-                type="application/octet-stream"
-                sparkle:edSignature="owNQFW1YQArJ9ulYDJPyrozRQjEPZJ3lbF9sXWmBsaCI70xr+tj+16zR/+m7poWez8r9COwXYGTteRxs1oaTAw=="
-            />
-        </item>
-        <item>
-            <title>Version 1.1.2</title>
-            <pubDate>Sat, 17 Jan 2026 00:08:02 +0000</pubDate>
-            <sparkle:version>4</sparkle:version>
-            <sparkle:shortVersionString>1.1.2</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>26.2</sparkle:minimumSystemVersion>
-            <description><![CDATA[
-                <p>Bug fixes and improvements.</p>
-            ]]></description>
-            <enclosure
-                url="https://macvitals-updates.tomaskafka.com/MacVitals-1.1.2.dmg"
+                url="https://github.com/tkafka/macvitals-updates/releases/download/v1.1.2/MacVitals-1.1.2.dmg"
                 length="7397535"
                 type="application/octet-stream"
                 sparkle:edSignature="owNQFW1YQArJ9ulYDJPyrozRQjEPZJ3lbF9sXWmBsaCI70xr+tj+16zR/+m7poWez8r9COwXYGTteRxs1oaTAw=="
@@ -355,23 +167,7 @@
 </ul>
             ]]></description>
             <enclosure
-                url="https://macvitals-updates.tomaskafka.com/MacVitals-1.1.1.dmg"
-                length="7398044"
-                type="application/octet-stream"
-                sparkle:edSignature="SWLReqX61x4SmDh+oS6/KUMG3+0Kg1YsT2zZxRmJxEKUm8XnlpYN1sIvfOb0AdTOAag+FMA60206WAeB2+2BDQ=="
-            />
-        </item>
-        <item>
-            <title>Version 1.1.1</title>
-            <pubDate>Fri, 16 Jan 2026 16:36:48 +0000</pubDate>
-            <sparkle:version>3</sparkle:version>
-            <sparkle:shortVersionString>1.1.1</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>26.2</sparkle:minimumSystemVersion>
-            <description><![CDATA[
-                <p>Bug fixes and improvements.</p>
-            ]]></description>
-            <enclosure
-                url="https://macvitals-updates.tomaskafka.com/MacVitals-1.1.1.dmg"
+                url="https://github.com/tkafka/macvitals-updates/releases/download/v1.1.1/MacVitals-1.1.1.dmg"
                 length="7398044"
                 type="application/octet-stream"
                 sparkle:edSignature="SWLReqX61x4SmDh+oS6/KUMG3+0Kg1YsT2zZxRmJxEKUm8XnlpYN1sIvfOb0AdTOAag+FMA60206WAeB2+2BDQ=="
@@ -393,7 +189,7 @@
                 </ul>
             ]]></description>
             <enclosure
-                url="https://macvitals-updates.tomaskafka.com/MacVitals-1.1.0.dmg"
+                url="https://github.com/tkafka/macvitals-updates/releases/download/v1.1.0/MacVitals-1.1.0.dmg"
                 length="7398361"
                 type="application/octet-stream"
                 sparkle:edSignature="eZotfFYT2AiTMg9CLIyP0hQMRXl26Vdote6LWna4pnkPFiqrcddVvtt9F8Yih07JA25weuB/YClrokvpNty4Aw=="
@@ -409,42 +205,10 @@
                 <p>Bug fixes and improvements.</p>
             ]]></description>
             <enclosure
-                url="https://macvitals-updates.tomaskafka.com/MacVitals-1.0.2.dmg"
+                url="https://github.com/tkafka/macvitals-updates/releases/download/v1.0.2/MacVitals-1.0.2.dmg"
                 length="7353152"
                 type="application/octet-stream"
                 sparkle:edSignature="t+FE6oP1Kz5TRAv7nELY66/mcHbszhI8G9gV5MQuFouUMA/2UNZ7UYkON+oItoGjuRxvKqHi7v7IzTjSln/6Aw=="
-            />
-        </item>
-        <item>
-            <title>Version 1.0.1</title>
-            <pubDate>Tue, 13 Jan 2026 20:02:59 +0000</pubDate>
-            <sparkle:version>2</sparkle:version>
-            <sparkle:shortVersionString>1.0.1</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>26.2</sparkle:minimumSystemVersion>
-            <description><![CDATA[
-                <p>Bug fixes and improvements.</p>
-            ]]></description>
-            <enclosure
-                url="https://macvitals-updates.tomaskafka.com/MacVitals-1.0.1.dmg"
-                length="7353032"
-                type="application/octet-stream"
-                sparkle:edSignature="5aDmCW+FF7YTz8L+5A9zL5iLCiAP6Brr+sGzgQQTx0LQP/p8uBX6OhZVUg45EEF0wDAF7fqUzNALbfVuiYb0Ag=="
-            />
-        </item>
-        <item>
-            <title>Version 1.0.1</title>
-            <pubDate>Tue, 13 Jan 2026 19:53:42 +0000</pubDate>
-            <sparkle:version>2</sparkle:version>
-            <sparkle:shortVersionString>1.0.1</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>26.2</sparkle:minimumSystemVersion>
-            <description><![CDATA[
-                <p>Bug fixes and improvements.</p>
-            ]]></description>
-            <enclosure
-                url="https://macvitals-updates.tomaskafka.com/MacVitals-1.0.1.dmg"
-                length="7353051"
-                type="application/octet-stream"
-                sparkle:edSignature="5aDmCW+FF7YTz8L+5A9zL5iLCiAP6Brr+sGzgQQTx0LQP/p8uBX6OhZVUg45EEF0wDAF7fqUzNALbfVuiYb0Ag=="
             />
         </item>
     </channel>
