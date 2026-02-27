@@ -6,6 +6,30 @@
         <description>Most recent updates to MacVitals</description>
         <language>en</language>
         <item>
+            <title>Version 1.4.3</title>
+            <pubDate>Fri, 27 Feb 2026 12:16:44 +0000</pubDate>
+            <sparkle:version>10</sparkle:version>
+            <sparkle:shortVersionString>1.4.3</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[
+                <h3>What's New in v1.4.3</h3>
+<h4>Changed</h4>
+<ul>
+    <li>Improved icon-aware color contrast so app labels stay readable even when source icons are extremely bright or dark</li>
+</ul>
+<h4>Fixed</h4>
+<ul>
+    <li>The Weathergraph promotion banner now dismisses itself after Weathergraph is installed</li>
+</ul>
+            ]]></description>
+            <enclosure
+                url="https://github.com/tkafka/macvitals-updates/releases/download/v1.4.3/MacVitals-1.4.3.dmg"
+                length="4897732"
+                type="application/octet-stream"
+                sparkle:edSignature="yCAKqBMZ0wMtJrrHsF5T7sh+h6Us0bRc9i1L5ilw+sOMr5+3WKVcpAeGiB4vxOe8gykOe123SiBQcISZ3PmWCw=="
+            />
+        </item>
+        <item>
             <title>Version 1.4.2</title>
             <pubDate>Thu, 26 Feb 2026 23:56:43 +0000</pubDate>
             <sparkle:version>9</sparkle:version>
