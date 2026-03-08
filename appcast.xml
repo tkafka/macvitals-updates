@@ -6,6 +6,26 @@
         <description>Most recent updates to MacVitals</description>
         <language>en</language>
         <item>
+            <title>Version 1.4.9</title>
+            <pubDate>Sun, 08 Mar 2026 18:27:29 +0000</pubDate>
+            <sparkle:version>16</sparkle:version>
+            <sparkle:shortVersionString>1.4.9</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[
+                <h3>What's New in v1.4.9</h3>
+<h4>Fixed</h4>
+<ul>
+    <li>Fixed the layout of swap chart</li>
+</ul>
+            ]]></description>
+            <enclosure
+                url="https://github.com/tkafka/macvitals-updates/releases/download/v1.4.9/MacVitals-1.4.9.dmg"
+                length="4942280"
+                type="application/octet-stream"
+                sparkle:edSignature="WUluo1m97tOGoXlvnGs+iK2Y9srHWQkxiHkquvpZ5OWmNmbkr9kSK3F8/haZ2VCW4OvEEnvhoT39a6Qv99wCBw=="
+            />
+        </item>
+        <item>
             <title>Version 1.4.8</title>
             <pubDate>Sun, 08 Mar 2026 17:56:48 +0000</pubDate>
             <sparkle:version>15</sparkle:version>
