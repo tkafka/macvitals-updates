@@ -6,6 +6,26 @@
         <description>Most recent updates to MacVitals</description>
         <language>en</language>
         <item>
+            <title>Version 1.4.10</title>
+            <pubDate>Sun, 08 Mar 2026 22:25:03 +0000</pubDate>
+            <sparkle:version>17</sparkle:version>
+            <sparkle:shortVersionString>1.4.10</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[
+                <h3>What's New in v1.4.10</h3>
+<h4>Changed</h4>
+<ul>
+    <li>Layout and visual improvements - MacVitals now looks even cleaner</li>
+</ul>
+            ]]></description>
+            <enclosure
+                url="https://github.com/tkafka/macvitals-updates/releases/download/v1.4.10/MacVitals-1.4.10.dmg"
+                length="4926914"
+                type="application/octet-stream"
+                sparkle:edSignature="wgQpZEVduJnSMk8SuttzIYoRBXgcMcgPClNEESQUhTCRHHa2Jl+OhToTBf0Ne64Q8NLtLkDEjnTatblXw59xCg=="
+            />
+        </item>
+        <item>
             <title>Version 1.4.9</title>
             <pubDate>Sun, 08 Mar 2026 18:27:29 +0000</pubDate>
             <sparkle:version>16</sparkle:version>
