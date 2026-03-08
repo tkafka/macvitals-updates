@@ -6,6 +6,33 @@
         <description>Most recent updates to MacVitals</description>
         <language>en</language>
         <item>
+            <title>Version 1.4.5</title>
+            <pubDate>Sun, 08 Mar 2026 01:39:04 +0000</pubDate>
+            <sparkle:version>12</sparkle:version>
+            <sparkle:shortVersionString>1.4.5</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[
+                <h3>What's New in v1.4.5</h3>
+<h4>Changed</h4>
+<ul>
+    <li>Refined the memory map with cleaner slice edges, subtler hover/selection states, and clearer labels so usage is easier to read at a glance without visual heaviness.</li>
+    <li>Tightened the sidebar layout and interactions for a denser, more native process list with cleaner hover/selection behavior and less wasted space.</li>
+    <li>Improved the center detail view and bottom summary strip so key memory numbers remain readable in smaller window sizes.</li>
+    <li>Polished light and dark mode behavior plus menu bar presentation, removing mismatched surfaces and text treatments for a more consistent look across contexts.</li>
+</ul>
+<h4>Fixed</h4>
+<ul>
+    <li>Resolved chart and selection synchronization issues, including sidebar-to-chart highlighting and dark mode label rendering for free memory.</li>
+</ul>
+            ]]></description>
+            <enclosure
+                url="https://github.com/tkafka/macvitals-updates/releases/download/v1.4.5/MacVitals-1.4.5.dmg"
+                length="4947062"
+                type="application/octet-stream"
+                sparkle:edSignature="RBnEMx8kTLW2eVADPYs5vBB2chzLvqnJbqL77LhWK/eWsM9FOc0hJNrJGhxXNAJYSvphIR5OlMz/JpNYNQw2AA=="
+            />
+        </item>
+        <item>
             <title>Version 1.4.4</title>
             <pubDate>Tue, 03 Mar 2026 18:20:24 +0000</pubDate>
             <sparkle:version>11</sparkle:version>
