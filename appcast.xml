@@ -6,6 +6,27 @@
         <description>Most recent updates to MacVitals</description>
         <language>en</language>
         <item>
+            <title>Version 1.4.11</title>
+            <pubDate>Tue, 24 Mar 2026 23:31:40 +0000</pubDate>
+            <sparkle:version>18</sparkle:version>
+            <sparkle:shortVersionString>1.4.11</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[
+                <h3>What's New in v1.4.11</h3>
+<h4>Added</h4>
+<ul>
+    <li>MacVitals now opens a new window when launched while already running with no window visible</li>
+    <li>Added a promo for the brand new Domain Command app in the About window</li>
+</ul>
+            ]]></description>
+            <enclosure
+                url="https://github.com/tkafka/macvitals-updates/releases/download/v1.4.11/MacVitals-1.4.11.dmg"
+                length="4950697"
+                type="application/octet-stream"
+                sparkle:edSignature="wK7KvAaz5B092N9+iJTBIcTLa3k5p09NSaSu5OWb/ipgv4JNPA2YLAoSlag4mlboHvX1mt75ckAa4mEWobypDQ=="
+            />
+        </item>
+        <item>
             <title>Version 1.4.10</title>
             <pubDate>Sun, 08 Mar 2026 22:25:03 +0000</pubDate>
             <sparkle:version>17</sparkle:version>
