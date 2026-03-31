@@ -6,6 +6,31 @@
         <description>Most recent updates to MacVitals</description>
         <language>en</language>
         <item>
+            <title>Version 1.7.0</title>
+            <pubDate>Tue, 31 Mar 2026 21:19:40 +0000</pubDate>
+            <sparkle:version>23</sparkle:version>
+            <sparkle:shortVersionString>1.7.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[
+                <h3>What's New in v1.7.0</h3>
+<h4>Added</h4>
+<ul>
+    <li>Hover over any sparkline in the Monitor Window to see the exact memory value at that point in time</li>
+    <li>Smooth fade-in for sparklines that don't have a full history yet</li>
+</ul>
+<h4>Changed</h4>
+<ul>
+    <li>Monitor Window has a new, cleaner look</li>
+</ul>
+            ]]></description>
+            <enclosure
+                url="https://github.com/tkafka/macvitals-updates/releases/download/v1.7.0/MacVitals-1.7.0.dmg"
+                length="5086702"
+                type="application/octet-stream"
+                sparkle:edSignature="sdDFvUsmJD1jLgGtnohze8QJqfy5+l8hjDTiKpQXdmq8akTf9FgsVTjFH0lhYDY4bxnaSH596FesFH4fhECnAw=="
+            />
+        </item>
+        <item>
             <title>Version 1.6.0</title>
             <pubDate>Tue, 31 Mar 2026 16:24:09 +0000</pubDate>
             <sparkle:version>22</sparkle:version>
