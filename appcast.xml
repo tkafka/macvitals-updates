@@ -6,6 +6,35 @@
         <description>Most recent updates to MacVitals</description>
         <language>en</language>
         <item>
+            <title>Version 1.6.0</title>
+            <pubDate>Tue, 31 Mar 2026 16:24:09 +0000</pubDate>
+            <sparkle:version>22</sparkle:version>
+            <sparkle:shortVersionString>1.6.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[
+                <h3>What's New in v1.6.0</h3>
+<h4>Added</h4>
+<ul>
+    <li>New consolidated monitor panel replaces individual per-app floating windows — add any app, process, or category from the sidebar and watch them all in one place</li>
+    <li>Drag the panel anywhere on screen; pin it to stay above all other windows</li>
+    <li>Each row shows the app icon, current RAM usage, trend direction, and a live sparkline history</li>
+    <li>Monitored items persist across launches and automatically reconnect to running apps</li>
+    <li>Remove individual items with the minus button; close the whole panel with the × button</li>
+    <li>Panel never steals focus and works even when another app is active</li>
+</ul>
+<h4>Removed</h4>
+<ul>
+    <li>Individual per-app floating windows (replaced by the consolidated monitor panel)</li>
+</ul>
+            ]]></description>
+            <enclosure
+                url="https://github.com/tkafka/macvitals-updates/releases/download/v1.6.0/MacVitals-1.6.0.dmg"
+                length="5061637"
+                type="application/octet-stream"
+                sparkle:edSignature="qAi6DMM4vZZl7o50JwomyeEjorel99KPgIhV0cEcbFH1PN4hj3OIpwsdIfqAEholPZURFeUYtnv4nnbds2DFAQ=="
+            />
+        </item>
+        <item>
             <title>Version 1.5.1</title>
             <pubDate>Tue, 31 Mar 2026 12:01:25 +0000</pubDate>
             <sparkle:version>21</sparkle:version>
