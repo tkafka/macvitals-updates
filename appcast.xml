@@ -6,6 +6,26 @@
         <description>Most recent updates to MacVitals</description>
         <language>en</language>
         <item>
+            <title>Version 1.5.1</title>
+            <pubDate>Tue, 31 Mar 2026 12:01:25 +0000</pubDate>
+            <sparkle:version>21</sparkle:version>
+            <sparkle:shortVersionString>1.5.1</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[
+                <h3>What's New in v1.5.1</h3>
+<h4>Fixed</h4>
+<ul>
+    <li>Fixed a bug where memory usage could be double-counted for apps with multiple bundles (like some Electron apps)</li>
+</ul>
+            ]]></description>
+            <enclosure
+                url="https://github.com/tkafka/macvitals-updates/releases/download/v1.5.1/MacVitals-1.5.1.dmg"
+                length="5004227"
+                type="application/octet-stream"
+                sparkle:edSignature="nUUq/mf4aSJ+p87pv2+/lrGiK2sd1q029IzWsbLYAKk9sOH8ZddnDWxkZ1BbndZKB+bIeUaUd3BTIRYonlGeBQ=="
+            />
+        </item>
+        <item>
             <title>Version 1.5.0</title>
             <pubDate>Tue, 31 Mar 2026 10:30:01 +0000</pubDate>
             <sparkle:version>20</sparkle:version>
