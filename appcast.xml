@@ -6,6 +6,30 @@
         <description>Most recent updates to MacVitals</description>
         <language>en</language>
         <item>
+            <title>Version 1.5.0</title>
+            <pubDate>Tue, 31 Mar 2026 10:30:01 +0000</pubDate>
+            <sparkle:version>20</sparkle:version>
+            <sparkle:shortVersionString>1.5.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[
+                <h3>What's New in v1.5.0</h3>
+<h4>Added</h4>
+<ul>
+    <li>Monitor any app or process in a dedicated floating window — pop out a compact always-on-top window for any app, process, or category to watch its memory trend without keeping the main window open. Open as many as you need, each showing a live sparkline with the current memory value updating every refresh cycle. Windows stay visible across all Spaces and over full-screen apps, can be pinned or unpinned from the top layer, and reposition automatically if your screen configuration changes. Open a monitor window from three places: hover or select an item in the pie chart (button appears below the detail), right-click any row in the sidebar, or right-click a pie slice.</li>
+</ul>
+<h4>Fixed</h4>
+<ul>
+    <li>Cursor, VS Code, Slack, and other Electron apps now appear as a single entry instead of fragmenting into 2–3 separate items in the sidebar and pie chart.</li>
+</ul>
+            ]]></description>
+            <enclosure
+                url="https://github.com/tkafka/macvitals-updates/releases/download/v1.5.0/MacVitals-1.5.0.dmg"
+                length="5003283"
+                type="application/octet-stream"
+                sparkle:edSignature="7gfsw1YP80ajotwLnUy4Gcbmlaf4UByP05LzcJOM9fSk2pP5rgE0luDuyAkA9bn12Kohuh/EqPBfTnN5o7wxBQ=="
+            />
+        </item>
+        <item>
             <title>Version 1.4.12</title>
             <pubDate>Tue, 31 Mar 2026 07:39:27 +0000</pubDate>
             <sparkle:version>19</sparkle:version>
