@@ -6,6 +6,26 @@
         <description>Most recent updates to MacVitals</description>
         <language>en</language>
         <item>
+            <title>Version 1.7.1</title>
+            <pubDate>Wed, 01 Apr 2026 10:32:29 +0000</pubDate>
+            <sparkle:version>24</sparkle:version>
+            <sparkle:shortVersionString>1.7.1</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[
+                <h3>What's New in v1.7.1</h3>
+<h4>Changed</h4>
+<ul>
+    <li>Visual tweaks</li>
+</ul>
+            ]]></description>
+            <enclosure
+                url="https://github.com/tkafka/macvitals-updates/releases/download/v1.7.1/MacVitals-1.7.1.dmg"
+                length="5086938"
+                type="application/octet-stream"
+                sparkle:edSignature="Sj15bZQu0dOZJJwmKGh9st7B2wtxWfciLuJcTPs1TrhuryAw6IzZPfhRlbR6jNfbAEtBz4GcOskvQ4c5chFbAg=="
+            />
+        </item>
+        <item>
             <title>Version 1.7.0</title>
             <pubDate>Tue, 31 Mar 2026 21:19:40 +0000</pubDate>
             <sparkle:version>23</sparkle:version>
