@@ -6,6 +6,26 @@
         <description>Most recent updates to MacVitals</description>
         <language>en</language>
         <item>
+            <title>Version 1.7.2</title>
+            <pubDate>Sun, 12 Apr 2026 09:21:27 +0000</pubDate>
+            <sparkle:version>25</sparkle:version>
+            <sparkle:shortVersionString>1.7.2</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[
+                <h3>What's New in v1.7.2</h3>
+<h4>Fixed</h4>
+<ul>
+    <li>Fixed the Add to monitor checkbox in the menu bar popup so monitored items can be added there just like in the main window.</li>
+</ul>
+            ]]></description>
+            <enclosure
+                url="https://github.com/tkafka/macvitals-updates/releases/download/v1.7.2/MacVitals-1.7.2.dmg"
+                length="5088901"
+                type="application/octet-stream"
+                sparkle:edSignature="xwwK84MRncoL9Yf6LNeGaEALO8R2JlmOp0Q2VoyuLRoyXMcKY2u4uuHzcaa3jtnHskXAQhCdVZEbpaXQBLPbDA=="
+            />
+        </item>
+        <item>
             <title>Version 1.7.1</title>
             <pubDate>Wed, 01 Apr 2026 10:32:29 +0000</pubDate>
             <sparkle:version>24</sparkle:version>
