@@ -6,6 +6,26 @@
         <description>Most recent updates to MacVitals</description>
         <language>en</language>
         <item>
+            <title>Version 1.7.5</title>
+            <pubDate>Thu, 18 Jun 2026 14:17:35 +0000</pubDate>
+            <sparkle:version>28</sparkle:version>
+            <sparkle:shortVersionString>1.7.5</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[
+                <h3>What's New in v1.7.5</h3>
+<h4>Changed</h4>
+<ul>
+    <li>Redesigned the sidebar search field with a Liquid Glass look that matches macOS 26 — it now sits at the top of the sidebar with the app list scrolling beneath it.</li>
+</ul>
+            ]]></description>
+            <enclosure
+                url="https://github.com/tkafka/macvitals-updates/releases/download/v1.7.5/MacVitals-1.7.5.dmg"
+                length="5080791"
+                type="application/octet-stream"
+                sparkle:edSignature="z7YEKPNeB9c4eaCTK6Dzrnfo66mnxdANlB/jaShLaquMLMTcZI52rLCD7vWqNvM+FcLn35InZxOHQKnbjrfhCQ=="
+            />
+        </item>
+        <item>
             <title>Version 1.7.4</title>
             <pubDate>Tue, 26 May 2026 14:56:33 +0000</pubDate>
             <sparkle:version>27</sparkle:version>
