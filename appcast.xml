@@ -6,6 +6,26 @@
         <description>Most recent updates to MacVitals</description>
         <language>en</language>
         <item>
+            <title>Version 1.7.6</title>
+            <pubDate>Thu, 18 Jun 2026 16:07:17 +0000</pubDate>
+            <sparkle:version>29</sparkle:version>
+            <sparkle:shortVersionString>1.7.6</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[
+                <h3>What's New in v1.7.6</h3>
+<h4>Changed</h4>
+<ul>
+    <li>The search field now unfocuses when you interact with the chart, so chart navigation and follow-up input feel more natural.</li>
+</ul>
+            ]]></description>
+            <enclosure
+                url="https://github.com/tkafka/macvitals-updates/releases/download/v1.7.6/MacVitals-1.7.6.dmg"
+                length="5081063"
+                type="application/octet-stream"
+                sparkle:edSignature="znxCa5uwyfTs86jRAjkSZ1QoRpztT4DyWgUHccdo54Mr+E54sJLKH+56YOWC4MuCJKNqo01Pf8e4iy1IlwdECw=="
+            />
+        </item>
+        <item>
             <title>Version 1.7.5</title>
             <pubDate>Thu, 18 Jun 2026 14:17:35 +0000</pubDate>
             <sparkle:version>28</sparkle:version>
