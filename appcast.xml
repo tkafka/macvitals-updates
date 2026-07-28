@@ -6,6 +6,32 @@
         <description>Most recent updates to MacVitals</description>
         <language>en</language>
         <item>
+            <title>Version 1.8.0</title>
+            <pubDate>Tue, 28 Jul 2026 12:34:59 +0000</pubDate>
+            <sparkle:version>30</sparkle:version>
+            <sparkle:shortVersionString>1.8.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[
+                <h3>What's New in v1.8.0</h3>
+<h4>Changed</h4>
+<ul>
+    <li>Major CPU usage reduction for long-running sessions. MacVitals no longer periodically spikes CPU usage while sitting in the background — previously it would briefly burn significant CPU roughly once a minute; that's now essentially eliminated.</li>
+    <li>The process list is now updated far more efficiently under the hood, substantially cutting the CPU cost of routine refreshes — especially noticeable if you keep the window open for extended periods.</li>
+    <li>Sitting idle for days no longer causes CPU or memory usage to slowly climb — MacVitals is now safe to leave running continuously for weeks at a time.</li>
+</ul>
+<h4>Fixed</h4>
+<ul>
+    <li>Fixed the memory delta time windows (30s / 1m / 2m / 5m) so each one now actually reflects the time span shown in its label.</li>
+</ul>
+            ]]></description>
+            <enclosure
+                url="https://github.com/tkafka/macvitals-updates/releases/download/v1.8.0/MacVitals-1.8.0.dmg"
+                length="5108687"
+                type="application/octet-stream"
+                sparkle:edSignature="6BVa6s/qvoqx3ECFDgxc65oHRPXuCN+lv5L/Jb/MtmX3xRIhwoWeuFz6CoO6WQC080IDyIzDsVUyGcErCeFrDA=="
+            />
+        </item>
+        <item>
             <title>Version 1.7.6</title>
             <pubDate>Thu, 18 Jun 2026 16:07:17 +0000</pubDate>
             <sparkle:version>29</sparkle:version>
