@@ -6,6 +6,26 @@
         <description>Most recent updates to MacVitals</description>
         <language>en</language>
         <item>
+            <title>Version 1.8.1</title>
+            <pubDate>Tue, 11 Aug 2026 22:43:18 +0000</pubDate>
+            <sparkle:version>31</sparkle:version>
+            <sparkle:shortVersionString>1.8.1</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[
+                <h3>What's New in v1.8.1</h3>
+<h4>Added</h4>
+<ul>
+    <li>MacVitals can now start automatically after you log in. Turn on "Launch at login" in Settings and the menu bar item is there from the moment you sit down — no need to open the app first.</li>
+</ul>
+            ]]></description>
+            <enclosure
+                url="https://github.com/tkafka/macvitals-updates/releases/download/v1.8.1/MacVitals-1.8.1.dmg"
+                length="5120261"
+                type="application/octet-stream"
+                sparkle:edSignature="CsXfWPHXfftfnenjXB/wP6dPSAC/OzLlaS+8mFt3tFPMg7XkM/0EIiCMI74VHwnT5KdcYJQEhd0ZfXh7PG+kCg=="
+            />
+        </item>
+        <item>
             <title>Version 1.8.0</title>
             <pubDate>Tue, 28 Jul 2026 12:34:59 +0000</pubDate>
             <sparkle:version>30</sparkle:version>
