@@ -6,6 +6,26 @@
         <description>Most recent updates to MacVitals</description>
         <language>en</language>
         <item>
+            <title>Version 1.8.2</title>
+            <pubDate>Sat, 22 Aug 2026 17:43:33 +0000</pubDate>
+            <sparkle:version>32</sparkle:version>
+            <sparkle:shortVersionString>1.8.2</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[
+                <h3>What's New in v1.8.2</h3>
+<h4>Changed</h4>
+<ul>
+    <li>Visual improvements: the app list now has even margins on both sides, so the highlighted row no longer runs flush against the right edge of the sidebar.</li>
+</ul>
+            ]]></description>
+            <enclosure
+                url="https://github.com/tkafka/macvitals-updates/releases/download/v1.8.2/MacVitals-1.8.2.dmg"
+                length="5120443"
+                type="application/octet-stream"
+                sparkle:edSignature="fVCOHMFcvmamp9Kbc7stkOj5XgMnuy+6CPEV/WFDEmiKCFJv9nojEVgE8hRaaWRaE3MsSXDdLfxavaX/FEKeCg=="
+            />
+        </item>
+        <item>
             <title>Version 1.8.1</title>
             <pubDate>Tue, 11 Aug 2026 22:43:18 +0000</pubDate>
             <sparkle:version>31</sparkle:version>
