@@ -6,6 +6,26 @@
         <description>Most recent updates to MacVitals</description>
         <language>en</language>
         <item>
+            <title>Version 1.9.0</title>
+            <pubDate>Mon, 16 Nov 2026 01:07:12 +0000</pubDate>
+            <sparkle:version>33</sparkle:version>
+            <sparkle:shortVersionString>1.9.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[
+                <h3>What's New in v1.9.0</h3>
+<h4>Changed</h4>
+<ul>
+    <li>Significant performance improvements and lower memory usage.</li>
+</ul>
+            ]]></description>
+            <enclosure
+                url="https://github.com/tkafka/macvitals-updates/releases/download/v1.9.0/MacVitals-1.9.0.dmg"
+                length="5114694"
+                type="application/octet-stream"
+                sparkle:edSignature="yregMLwsP4EDkwp6cB3WZ9iu/6bz6m7etV52cX9rGH9jk/6xN4aYpAWqqsDzQMIIrwf1ZzbcDuVcghtA7CR7CA=="
+            />
+        </item>
+        <item>
             <title>Version 1.8.2</title>
             <pubDate>Sat, 22 Aug 2026 17:43:33 +0000</pubDate>
             <sparkle:version>32</sparkle:version>
